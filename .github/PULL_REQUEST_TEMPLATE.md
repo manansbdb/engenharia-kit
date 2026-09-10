@@ -1,8 +1,8 @@
-## Resumo
+## Summary / Resumo
 
-<!-- O que muda e porquê (2–4 linhas). -->
+<!-- What changes and why (2–4 lines). / O que muda e porquê (2–4 linhas). -->
 
-## Tipo de mudança
+## Type of change / Tipo de mudança
 
 - [ ] Bug fix
 - [ ] Feature
@@ -10,7 +10,7 @@
 - [ ] Docs / chore
 - [ ] Breaking change
 
-## Como testar
+## How to test / Como testar
 
 1.
 2.
@@ -18,11 +18,11 @@
 
 ## Checklist
 
-- [ ] Testes passam localmente
-- [ ] Sem secrets no diff
-- [ ] Docs / changelog atualizados (se aplicável)
-- [ ] Screenshots ou logs (se UI / comportamento observável)
+- [ ] Tests pass locally / Testes passam localmente
+- [ ] No secrets in the diff / Sem secrets no diff
+- [ ] Docs / changelog updated (if applicable) / Docs atualizados (se aplicável)
+- [ ] Screenshots or logs (if UI / observable behavior)
 
-## Notas para review
+## Notes for reviewers / Notas para review
 
-<!-- Riscos, alternativas consideradas, follow-ups. -->
+<!-- Risks, alternatives, follow-ups. / Riscos, alternativas, follow-ups. -->

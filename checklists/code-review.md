@@ -1,11 +1,11 @@
-# Checklist — code review
+# Checklist — code review / revisão de código
 
-- [ ] O PR resolve o problema descrito (não só “passa nos testes”)
-- [ ] Nomes e abstrações fazem sentido para quem entra amanhã
-- [ ] Sem código morto, `console.log` de debug, ou TODOs sem issue
-- [ ] Erros tratados; sem engolir excepções
-- [ ] Sem secrets, tokens, ou dados sensíveis
-- [ ] Performance óbvia (N+1, loops pesados, payloads enormes)
-- [ ] Segurança básica (validação de input, authz, SSRF/XSS se aplicável)
-- [ ] Testes cobrem o caminho feliz e pelo menos um falhanço
-- [ ] Migrações / feature flags pensadas para rollback
+- [ ] PR solves the stated problem (not just “tests pass”) / O PR resolve o problema descrito
+- [ ] Names and abstractions make sense tomorrow / Nomes e abstrações fazem sentido amanhã
+- [ ] No dead code, debug logs, or TODOs without an issue
+- [ ] Errors handled; no swallowed exceptions / Erros tratados
+- [ ] No secrets, tokens, or sensitive data / Sem secrets
+- [ ] Obvious performance issues checked (N+1, heavy loops)
+- [ ] Basic security (input validation, authz, XSS/SSRF if applicable)
+- [ ] Tests cover happy path + at least one failure
+- [ ] Migrations / feature flags thought through for rollback

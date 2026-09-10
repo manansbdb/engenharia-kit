@@ -1,18 +1,18 @@
 ---
 name: Feature request
-about: Proposta de melhoria ou nova funcionalidade
+about: Proposal for an improvement or new feature / Proposta de melhoria ou nova funcionalidade
 labels: enhancement
 ---
 
-## Problema
+## Problem / Problema
 
-<!-- Que dor isto resolve? -->
+<!-- What pain does this solve? / Que dor isto resolve? -->
 
-## Solução proposta
+## Proposed solution / Solução proposta
 
-## Alternativas consideradas
+## Alternatives considered / Alternativas consideradas
 
-## Critérios de sucesso
+## Success criteria / Critérios de sucesso
 
 - [ ]
 - [ ]

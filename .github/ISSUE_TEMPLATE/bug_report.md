@@ -1,27 +1,27 @@
 ---
 name: Bug report
-about: Algo não funciona como esperado
+about: Something does not work as expected / Algo não funciona como esperado
 labels: bug
 ---
 
-## Descrição
+## Description / Descrição
 
-<!-- O que aconteceu vs o que esperavas. -->
+<!-- What happened vs what you expected. / O que aconteceu vs o que esperavas. -->
 
-## Passos para reproduzir
+## Steps to reproduce / Passos para reproduzir
 
 1.
 2.
 3.
 
-## Comportamento esperado
+## Expected behavior / Comportamento esperado
 
-## Ambiente
+## Environment / Ambiente
 
 - OS:
 - Browser / runtime:
-- Versão:
+- Version / Versão:
 
-## Evidência
+## Evidence / Evidência
 
-<!-- Logs, screenshots, link para PR. -->
+<!-- Logs, screenshots, PR link. -->

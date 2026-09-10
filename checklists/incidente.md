@@ -1,16 +1,16 @@
-# Checklist — incidente
+# Checklist — incident / incidente
 
-## Durante
+## During / Durante
 
-- [ ] Declarar incidente e canal dedicado
-- [ ] Incident commander nomeado
-- [ ] Impacto e scope claros (quem / o quê / desde quando)
-- [ ] Mitigar primeiro; root cause depois
-- [ ] Timeline a ser anotada em tempo real
+- [ ] Declare incident + dedicated channel / Declarar incidente e canal
+- [ ] Incident commander named / Incident commander nomeado
+- [ ] Impact and scope clear (who / what / since when)
+- [ ] Mitigate first; root cause later / Mitigar primeiro
+- [ ] Timeline noted in real time / Timeline em tempo real
 
-## Depois
+## After / Depois
 
-- [ ] Serviço estável confirmado
-- [ ] Postmortem agendado (blameless)
-- [ ] Action items com dono e data
-- [ ] Clientes / stakeholders informados se necessário
+- [ ] Service confirmed stable / Serviço estável
+- [ ] Blameless postmortem scheduled
+- [ ] Action items with owner + date
+- [ ] Stakeholders informed if needed / Stakeholders informados se necessário
