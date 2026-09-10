@@ -1,0 +1,8 @@
+# Copia para CODEOWNERS e troca pelos handles reais.
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+*       @manansbdb
+
+# /apps/api/    @equipa-backend
+# /apps/web/    @equipa-frontend
+# /.github/     @manansbdb
