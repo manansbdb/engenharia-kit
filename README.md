@@ -27,6 +27,16 @@ engenharia-kit/
 2. Renomeia `CODEOWNERS.example` → `CODEOWNERS` e ajusta os handles.
 3. Adapta as checklists em `checklists/` à tua equipa (Notion, GitHub Wiki, ou pasta `docs/`).
 
+## Support / Apoio
+
+Doações em Bitcoin são bem-vindas:
+
+```
+bc1q0qfnlnxyum9u45stzxe0a7jnhtj4j0usfkqdjw
+```
+
+Detalhes em [SUPPORT.md](./SUPPORT.md).
+
 ## Idioma
 
 Templates em **português**, fáceis de traduzir. PRs de melhorias são bem-vindos.
